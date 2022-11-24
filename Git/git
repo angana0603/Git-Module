@@ -1,0 +1,18 @@
+create a folder
+open it in git bash
+check git status - git status
+then add - git add .
+then commit - git commit -m file name
+to make a repository - git init
+check git status
+then we need to add github repo
+    1.At first we have to create a github account
+    2.click new repository
+    3.enter repository name
+    4.make it public or private acooding to your preference
+    5.add a readme file,then  click create
+    6.copy the code
+command - git remote add origin <code>    
+To check status - git remote -v
+then we have to push the file to online repo
+git push -u origin branchname
